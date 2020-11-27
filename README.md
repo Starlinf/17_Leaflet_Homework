@@ -1,1 +1,1 @@
-# 17_Leaflet_Homework
+# USGS Earthquake Vizualization
